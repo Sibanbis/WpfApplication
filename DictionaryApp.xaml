@@ -1,0 +1,9 @@
+ResourceDictionary xmlns=httpschemas.microsoft.comwinfx2006xamlpresentation
+                    xmlnsx=httpschemas.microsoft.comwinfx2006xaml
+    Style xKey=ButtonMenu
+        Setter Property=Control.Height Value=25
+        Setter Property=Control.Margin Value=10,10,5,10
+        Setter Property=Control.Padding Value=5,0,5,0
+        Setter Property=Control.BorderThickness Value=2
+    Style
+ResourceDictionary
